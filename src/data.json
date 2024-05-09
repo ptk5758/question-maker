@@ -1,0 +1,26 @@
+[
+    {
+        "QuestionId" : 0,
+        "Question" : "화제 발생시 사용가능한 장비로..",
+        "Hint" : "ㅅㅎㄱ",
+        "AnswerId" : 0,
+        "Choices" : [
+            {
+                "ChoiceId" : 0,
+                "Word" : "미국"
+            },
+            {
+                "ChoiceId" : 1,
+                "Word" : "중국"
+            },
+            {
+                "ChoiceId" : 2,
+                "Word" : "일본"
+            },
+            {
+                "ChoiceId" : 3,
+                "Word" : "한국"
+            }
+        ]
+    }
+]
